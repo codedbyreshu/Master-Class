@@ -1,6 +1,6 @@
 #DATE:23/01/2026
 #CRYPTO WALLET
-What is a Wallet?
+###What is a Wallet?
 📌 Definition
 A cryptocurrency wallet is a software or hardware tool that allows users to store, send, receive, and manage cryptocurrencies by securely holding private keys.
 ⚠️ Important clarification Cryptocurrencies are not stored inside the wallet. They remain on the blockchain. The wallet stores cryptographic keys that give access to those coins.
