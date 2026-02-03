@@ -189,3 +189,76 @@ Best CPUs have high core and thread counts
 AMD CPUs are generally preferred over Intel for mining
 CPU mining is suitable for privacy coins, not Bitcoin
 CPU mining is less powerful than GPU or ASIC mining
+
+What Type of Supercomputers Are Used for Mining?
+👉 Important truth first:
+Traditional scientific supercomputers (like weather or nuclear research machines) are NOT used for crypto mining.
+Instead, mining uses specialized high-performance computing systems, often called “supercomputers” because of their power.
+
+🔑 1️⃣ ASIC Mining Supercomputers (MOST IMPORTANT)
+📌 What are they?
+ASIC (Application-Specific Integrated Circuit) machines are the most powerful and efficient mining computers ever built.
+They are designed only for mining, especially Bitcoin.
+
+⚙️ Versions / Examples (Bitcoin Mining)
+Model	               Algorithm	            Hash Power
+Antminer S19 Pro     	 SHA-256	             ~110 TH/s
+Antminer S19 XP	       SHA-256	             ~140 TH/s
+Antminer S21 (latest)	 SHA-256	             ~200+ TH/s
+WhatsMiner M60        	SHA-256	             ~170 TH/s
+
+✅ These are considered mining supercomputers.
+
+🪙 Coins Mined
+Bitcoin (BTC)
+Bitcoin Cash (BCH)
+Bitcoin SV (BSV)
+
+🔑 2️⃣ GPU Mining Rigs (Cluster-Based Supercomputers)
+📌 What are they?
+Large setups with hundreds or thousands of GPUs connected together (like a mini-supercomputer).
+Used before Ethereum moved to Proof of Stake.
+
+⚙️ Versions / Examples
+GPU Model	Company
+NVIDIA RTX 3090	
+NVIDIA RTX 4090	
+AMD RX 6800 XT	
+AMD RX 7900 XTX	
+🧠 When clustered together, they act like a parallel supercomputer.
+
+🪙 Coins Mined
+Ethereum Classic (ETC)
+Ravencoin (RVN)
+Ergo (ERG)
+
+🔑 3️⃣ CPU-Based Supercomputer Clusters (Rare)
+📌 What are they?
+Clusters of high-core CPUs connected like supercomputers.
+
+⚙️ Versions / Examples
+AMD EPYC 7003 / 9004
+Intel Xeon Scalable
+
+🪙 Coins Mined
+Monero (XMR)
+VerusCoin (VRSC)
+⚠️ Used only for CPU-friendly algorithms.
+
+❌ 4️⃣ Scientific Supercomputers (NOT USED)
+Examples:
+Summit (USA)
+Fugaku (Japan)
+PARAM Siddhi (India)
+
+❌ Not used for mining because:
+Very expensive electricity
+Government-controlled
+Not energy-efficient for mining
+
+⭐ Key Takeaways (VERY IMPORTANT)
+Bitcoin mining uses ASIC supercomputers
+Latest versions: Antminer S19 XP, S21
+GPUs are used in large clusters, not single PCs
+CPUs are used only for privacy coins
+Scientific supercomputers are not used for crypto mining
