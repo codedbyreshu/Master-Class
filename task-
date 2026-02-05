@@ -1,0 +1,59 @@
+#date:04.02.2026 task-61. What is Bitcoin — Definition
+Bitcoin is the first decentralized digital currency that allows people to send value directly to each other over the internet without intermediaries (like banks or governments).
+It runs on a technology called blockchain, which keeps a public, tamper-proof record of all transactions. 🪙
+________________________________________
+🔧 2. Functions of Bitcoin
+🟡 a. Digital Currency
+•	Used to send and receive value online quickly.
+•	Global — works across borders without currency conversion.
+🟡 b. Store of Value
+•	People hold Bitcoin as digital gold to protect against inflation or currency depreciation.
+🟡 c. Unit of Account
+•	Some merchants price goods and services in BTC.
+🟡 d. Medium of Exchange
+•	Accepted as payment in many online and offline stores.
+🟡 e. Decentralized Money
+•	No central authority controls it — rules are enforced by the network.
+________________________________________
+🔄 3. Bitcoin Process (Simplified)
+🔹 a. Transaction Creation
+1.	User initiates a Bitcoin transfer
+2.	Transaction is signed with a private key
+🔹 b. Broadcast to Network
+•	The transaction is sent to Bitcoin’s peer-to-peer network
+🔹 c. Verification
+•	Nodes verify:
+o	Authentic signature
+o	No double-spending
+🔹 d. Mining & Proof of Work
+•	Miners collect transactions in a block
+•	They solve a cryptographic puzzle (PoW)
+•	The first miner to solve it broadcasts the block
+🔹 e. Block Added to Blockchain
+•	Other nodes verify the block
+•	Once accepted, the block becomes part of the permanent ledger
+🔹 f. Reward
+•	Miner gets a block reward + transaction fees
+👉 This process secures the network and makes tampering extremely hard.
+________________________________________
+🌍 4. Countries Involved in Bitcoin Mining (2026)
+Bitcoin mining means contributing computing power (hash rate) to secure the network. The leading regions in early 2026 are:
+🔟 Top Mining Countries & Approx. Hashrate Shares (2026)
+Rank	Country	Approx. % of Global Bitcoin Hashrate
+1	United States 🇺🇸	~37.5 %
+2	Russia 🇷🇺	~16.4 %
+3	China 🇨🇳	~11.7 %
+4	Paraguay 🇵🇾	~7.2 %
+5	Kazakhstan 🇰🇿	~6.5 %
+6	Canada 🇨🇦	~5.8 %
+7	Malaysia 🇲🇾	~3.4 %
+8	Norway 🇳🇴	~2.6 %
+9	Ethiopia 🇪🇹	~2.1 %
+10	Another region (e.g., Indonesia or smaller miner)	~1.6–1.8 %
+✔ United States remains the largest Bitcoin mining hub due to regulatory clarity, cheap energy in states like Texas/Wyoming, and large institutional mining infrastructure. 
+✔ Emerging countries like Paraguay and Ethiopia are rising, often due to cheap renewable energy. 
+📌 The exact share can vary slightly depending on the data source and quarter, but the overall pattern of U.S., Russia, and China dominating remains consistent. 
+________________________________________
+📌 Quick Summary (100-Word Exam Answer)
+Bitcoin is a decentralized digital currency that runs on a blockchain to allow secure, peer-to-peer value transfers without intermediaries. Its functions include being a medium of exchange, a store of value, and a unit of account. Transactions are created, broadcast, verified, and then mined into blocks through Proof of Work, adding to the blockchain ledger. In 2026, major Bitcoin mining nations include the United States (~37.5 %), Russia (~16.4 %), China (~11.7 %), Paraguay (~7.2 %), and Kazakhstan (~6.5 %). Mining distribution reflects energy costs, infrastructure, and regulatory environments globally.
+
