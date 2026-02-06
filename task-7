@@ -188,7 +188,8 @@ Key Takeaways
 ________________________________________
 
 ________________________________________
-1. Banking Sector
+#Consensus Mechanism Selection by Use Case
+Blockchain consensus must match trust model, performance, privacy, and regulatory needs. Different sectors require different consensus mechanisms.1. Banking Sector
 Best-Fit Consensus:
 Proof of Authority (PoA) / Practical Byzantine Fault Tolerance (PBFT)
 (Permissioned Blockchain)
