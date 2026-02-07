@@ -34,14 +34,15 @@ ________________________________________
 4.	Payments happen directly, without bank settlement delay
 ________________________________________
 🔹 E-Rupee vs UPI vs Crypto
-Feature	           E-Rupee	UPI	Cryptocurrency
-Issued by	   RBI	Banks	Private networks
-Legal tender	    Yes	❌ No	❌ No
-Backed by govt	    Yes	❌	❌
-Value stability	  Stable	Stable	Highly volatile
-Blockchain	   Yes (DLT)	No	Yes
-Internet          needed	Not always	Yes	Yes
-________________________________________
+Feature	           E-Rupee	    UPI	     Cryptocurrency
+Issued by	       RBI	Banks	   Private      networks
+Legal tender	     Yes	         No	          No
+Backed by govt	   Yes	         No           No
+Value stability	  Stable     	Stable	    Highly volatile
+Blockchain	       Yes (DLT)   	No	         Yes
+Internet          needed Not   	Yes	           Yes
+                  _always
+_______________________________________
 🔹 Key Features
 •	🏦 Government-backed
 •	🔐 Secure & tamper-proof
@@ -108,14 +109,14 @@ ________________________________________
 •	Government securities
 •	Example: India’s e₹-W
 ________________________________________
-🔹                CBDC   vs       Cash     vs    Cryptocurrency
-Feature	         CBDC	         Cash	        Cryptocurrency
-Issuer           Central Bank	 Central Bank	Private
-Legal tender	  Yes    	  Yes             No
-Physical form	  No	          Yes	          No
+🔹               CBDC    vs       Cash     vs    Cryptocurrency
+Feature	         CBDC	            Cash	         Cryptocurrency
+Issuer           Central Bank	  Central Bank    	Private
+Legal tender	    Yes    	        Yes              No
+Physical form	    No	            Yes	             No
 Value stability	 Stable	         Stable	        Volatile
-Blockchain	 Yes (DLT)	  No	          Yes
-Govt control	 High	         High	         None
+Blockchain	      Yes (DLT)	      No	            Yes
+Govt control    	High	          High            None
 ________________________________________
 🔹 Why countries introduce CBDC
 •	Reduce cash handling costs
