@@ -1,0 +1,210 @@
+# CPUs and Computing Systems Used for Cryptocurrency Mining
+
+---
+
+## Do Crypto Miners Use CPUs?
+
+Yes. CPU mining was used in the early days of Bitcoin and is still used today for certain cryptocurrencies, especially privacy-focused coins. However, CPUs are no longer suitable for mining Bitcoin.
+
+---
+
+## Types of CPUs Used for Crypto Mining
+
+### 1. Consumer CPUs (Desktop / Laptop CPUs)
+
+These CPUs are commonly used by beginners or for learning purposes.
+
+**Examples:**
+- Intel Core i5 / i7 / i9  
+- AMD Ryzen 5 / 7 / 9  
+
+**Used for:**
+- Small-scale mining  
+- CPU-friendly coins such as Monero (XMR)
+
+---
+
+### 2. High-Core-Count CPUs (Best for CPU Mining)
+
+CPUs with a large number of cores and threads are preferred for mining.
+
+**Examples:**
+- AMD Ryzen Threadripper  
+- AMD EPYC  
+- Intel Xeon  
+
+**Why they are used:**
+- More cores enable more hash calculations  
+- Better performance on CPU-optimized algorithms  
+
+---
+
+### 3. Server-Grade CPUs
+
+These are used in professional or industrial-level mining environments.
+
+**Examples:**
+- AMD EPYC 7000 series  
+- Intel Xeon Scalable processors  
+
+**Used for:**
+- Data-center-level mining  
+- High uptime, stability, and long-term operation  
+
+---
+
+### 4. ARM-Based CPUs (Limited Use)
+
+Low-power processors mainly used for testing or learning.
+
+**Examples:**
+- Raspberry Pi  
+- ARM-based servers  
+
+**Used for:**
+- Educational purposes  
+- Experimental setups  
+
+Not suitable or profitable for real mining operations.
+
+---
+
+## Cryptocurrencies Commonly Mined Using CPUs
+
+The following coins use CPU-friendly algorithms such as RandomX:
+
+- Monero (XMR)  
+- Raptoreum (RTM)  
+- VerusCoin (VRSC)  
+- Haven Protocol (XHV)  
+
+---
+
+## Important Note
+
+Bitcoin is **not mined using CPUs anymore**.  
+Bitcoin mining requires **ASIC miners**, not CPUs.
+
+---
+
+## Key Takeaways on CPU Mining
+
+- CPU mining uses general-purpose processors  
+- High core and thread count CPUs perform better  
+- AMD CPUs are generally preferred over Intel  
+- Suitable mainly for privacy-focused coins  
+- CPUs are far less powerful than GPUs or ASICs  
+
+---
+
+# What Type of Supercomputers Are Used for Crypto Mining?
+
+## Important Clarification
+
+Traditional scientific supercomputers (used for weather forecasting or nuclear research) are **not used for crypto mining**.  
+Instead, mining relies on specialized high-performance computing systems optimized only for mining tasks.
+
+---
+
+## 1. ASIC Mining Systems (Most Important)
+
+### What Are ASIC Miners?
+
+ASIC (Application-Specific Integrated Circuit) miners are specialized machines built only for cryptocurrency mining, especially Bitcoin.  
+They are the most powerful and energy-efficient mining systems available.
+
+---
+
+### Popular ASIC Models for Bitcoin Mining
+
+| Model | Algorithm | Hash Power |
+|-----|----------|------------|
+| Antminer S19 Pro | SHA-256 | ~110 TH/s |
+| Antminer S19 XP | SHA-256 | ~140 TH/s |
+| Antminer S21 | SHA-256 | ~200+ TH/s |
+| WhatsMiner M60 | SHA-256 | ~170 TH/s |
+
+These machines are often referred to as **mining supercomputers**.
+
+---
+
+### Cryptocurrencies Mined Using ASICs
+
+- Bitcoin (BTC)  
+- Bitcoin Cash (BCH)  
+- Bitcoin SV (BSV)  
+
+---
+
+## 2. GPU Mining Rigs (Cluster-Based Systems)
+
+### What Are GPU Mining Rigs?
+
+GPU mining rigs consist of hundreds or thousands of GPUs connected together, functioning like a parallel computing system.  
+They were widely used before Ethereum transitioned to Proof of Stake.
+
+---
+
+### Common GPUs Used in Mining
+
+| GPU Model | Manufacturer |
+|---------|-------------|
+| RTX 3090 | NVIDIA |
+| RTX 4090 | NVIDIA |
+| RX 6800 XT | AMD |
+| RX 7900 XTX | AMD |
+
+When clustered together, these rigs behave similarly to a mini-supercomputer.
+
+---
+
+### Cryptocurrencies Mined Using GPUs
+
+- Ethereum Classic (ETC)  
+- Ravencoin (RVN)  
+- Ergo (ERG)  
+
+---
+
+## 3. CPU-Based Supercomputer Clusters (Rare)
+
+### What Are They?
+
+Clusters of high-core-count CPUs connected together in a distributed system.
+
+**Examples:**
+- AMD EPYC 7003 / 9004  
+- Intel Xeon Scalable  
+
+**Coins Mined:**
+- Monero (XMR)  
+- VerusCoin (VRSC)  
+
+Used only for CPU-friendly algorithms.
+
+---
+
+## 4. Scientific Supercomputers (Not Used for Mining)
+
+### Examples
+
+- Summit (United States)  
+- Fugaku (Japan)  
+- PARAM Siddhi (India)  
+
+### Why They Are Not Used
+
+- Extremely high electricity costs  
+- Government-controlled infrastructure  
+- Inefficient for proof-of-work mining  
+
+---
+
+## Final Key Takeaways
+
+- Bitcoin mining uses ASIC-based mining systems  
+- Latest popular ASICs include Antminer S19 XP and S21  
+- GPUs are used in large clusters, not single computers  
+- CPUs are mainly used for privacy-focused cryptocurrencies  
+- Scientific research supercomputers are not used for mining  
+

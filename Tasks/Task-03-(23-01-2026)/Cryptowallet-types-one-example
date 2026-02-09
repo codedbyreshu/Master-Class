@@ -1,0 +1,316 @@
+DATE: 23/01/2026
+CRYPTO WALLET
+=============
+
+
+1. WHAT IS A CRYPTO WALLET?
+---------------------------
+Definition:
+A cryptocurrency wallet is a software or hardware tool that allows users
+to store, send, receive, and manage cryptocurrencies by securely holding
+private keys.
+
+Important Clarification:
+- Cryptocurrencies are NOT stored inside the wallet
+- Coins always remain on the blockchain
+- Wallets store cryptographic keys that give access to those coins
+
+
+2. WHAT DOES A WALLET CONTAIN?
+------------------------------
+
+A. Public Key
+- Similar to a bank account number
+- Used to receive cryptocurrency
+- Can be shared publicly
+
+B. Private Key
+- Similar to an ATM PIN
+- Used to sign transactions
+- Must be kept secret
+
+Important Rule:
+If the private key is lost → crypto is lost forever
+
+
+3. WHY DO WE NEED A WALLET?
+---------------------------
+Blockchain is decentralized, so wallets are required to:
+
+- Send cryptocurrency
+- Receive cryptocurrency
+- Store crypto securely
+- Check balance and transaction history
+- Interact with DeFi apps, NFTs, and smart contracts
+- Maintain ownership without banks
+
+Without a wallet, blockchain cannot be used.
+
+
+4. HOW DOES A WALLET WORK? (STEP-BY-STEP)
+-----------------------------------------
+1. Wallet is created
+2. Public and private keys are generated
+3. User shares public address
+4. Cryptocurrency is received
+5. To send crypto:
+   - Wallet signs transaction using private key
+6. Transaction is verified by nodes
+7. Transaction is added to blockchain
+
+Important:
+The private key is NEVER sent to the network.
+
+
+HOT WALLET (ONLINE WALLET)
+==========================
+
+5. WHAT IS A HOT WALLET?
+------------------------
+Definition:
+A hot wallet is a cryptocurrency wallet connected to the internet,
+allowing quick sending, receiving, and management of crypto.
+
+Because it stays online, it is also called an online wallet.
+
+
+6. WHY ARE HOT WALLETS USED?
+----------------------------
+Hot wallets are mainly used for:
+- Daily crypto transactions
+- Trading and exchanges
+- Quick payments
+- DeFi, NFTs, and DApps
+- Beginner-friendly usage
+
+
+7. HOW DOES A HOT WALLET WORK?
+------------------------------
+Internet Connection
+        ↓
+Wallet App or Website
+        ↓
+Private Key Stored Digitally
+        ↓
+Transaction Signed
+        ↓
+Broadcast to Blockchain
+
+
+8. TYPES OF HOT WALLETS
+-----------------------
+- Mobile wallets
+- Web wallets
+- Desktop wallets
+- Browser extension wallets
+
+
+HOT WALLET EXAMPLE – METAMASK
+=============================
+
+9. METAMASK WALLET
+------------------
+
+What is MetaMask?
+MetaMask is a non-custodial hot wallet mainly used for Ethereum and
+other EVM-compatible blockchains.
+
+How it Works:
+- Installed as browser extension or mobile app
+- User controls private keys
+- Uses seed phrase for recovery
+
+Where It Is Used:
+- DeFi platforms (Uniswap, Aave)
+- NFT marketplaces (OpenSea)
+- Smart contracts and Web3 apps
+
+Advantages:
+- Full control of private keys
+- Very popular and beginner-friendly
+- Supports multiple blockchains
+
+Disadvantages:
+- Vulnerable to phishing attacks
+- Requires internet connection
+
+Coins Supported:
+- Ethereum (ETH)
+- ERC-20 tokens (USDT, USDC, DAI)
+- Polygon (MATIC)
+- BNB Smart Chain tokens
+- Avalanche, Arbitrum, Optimism
+- NFTs (ERC-721 and ERC-1155)
+
+Note:
+MetaMask does NOT directly support Bitcoin (BTC).
+
+Availability:
+- Free download
+- Chrome Web Store
+- Google Play Store
+- Apple App Store
+
+Specifications:
+- Software wallet
+- Internet required
+- Browser and mobile support
+- Private keys stored locally
+- Open-source
+
+Key Features:
+- Easy to use
+- Web3 and DeFi access
+- DApp connectivity
+- NFT support
+- 12-word seed phrase backup
+
+
+COLD WALLET (OFFLINE WALLET)
+============================
+
+10. WHAT IS A COLD WALLET?
+--------------------------
+Definition:
+A cold wallet is a cryptocurrency wallet that stores private keys
+offline and is not connected to the internet.
+
+Because it stays offline, it is also called an offline wallet.
+
+
+11. WHY ARE COLD WALLETS USED?
+------------------------------
+Cold wallets are used for:
+- Long-term crypto storage
+- Holding large amounts of crypto
+- Protection from hacking and malware
+- Institutional and professional use
+
+
+12. TYPES OF COLD WALLETS
+-------------------------
+- Hardware wallet
+- Paper wallet
+- Air-gapped computer wallet
+- Metal backup wallet
+- Offline USB wallet
+
+
+13. EXAMPLES OF COLD WALLETS
+----------------------------
+- Ledger Nano S
+- Ledger Nano X
+- Trezor One
+- Trezor Model T
+- Paper wallet
+- Air-gapped laptop wallet
+
+
+COLD WALLET EXAMPLE 1 – LEDGER NANO
+==================================
+
+14. LEDGER NANO HARDWARE WALLET
+-------------------------------
+
+What is Ledger Nano?
+Ledger Nano is a hardware cold wallet that stores private keys inside
+a physical device.
+
+How Ledger Works:
+Private keys stored in device
+        ↓
+Device connected to computer or mobile
+        ↓
+Transaction created on computer
+        ↓
+Transaction approved on device
+        ↓
+Signed transaction sent to blockchain
+
+Important:
+Private keys never leave the device.
+
+Where It Is Used:
+- Long-term crypto storage
+- Large investments
+- Professional traders and institutions
+
+Advantages:
+- Very high security
+- Protected from malware
+- Supports many cryptocurrencies
+
+Disadvantages:
+- Costly
+- Can be lost or damaged
+- Requires basic technical knowledge
+
+Coins Supported:
+- Bitcoin (BTC)
+- Ethereum (ETH)
+- USDT, USDC
+- BNB
+- Solana (SOL)
+- Polygon (MATIC)
+- Cardano (ADA)
+- Dogecoin (DOGE)
+- Litecoin (LTC)
+- NFTs (Ethereum and Polygon)
+
+Where to Buy:
+- Official Ledger website
+- Authorized sellers on Amazon
+- Crypto hardware resellers
+
+Warning:
+Always buy from official or authorized sellers only.
+
+Specifications:
+- Secure Element Chip (CC EAL5+)
+- Bluetooth support
+- USB-C connectivity
+- Built-in battery
+- Mobile and desktop compatible
+
+Key Features:
+- Private keys never leave device
+- PIN protection
+- 24-word recovery seed phrase
+- Ledger Live app for management
+
+
+COLD WALLET EXAMPLE 2 – PAPER WALLET
+===================================
+
+15. PAPER WALLET
+----------------
+
+What is a Paper Wallet?
+A paper wallet is a printed document containing:
+- Public key
+- Private key
+(Usually printed as QR codes)
+
+How Paper Wallet Works:
+Keys generated offline
+        ↓
+Printed on paper
+        ↓
+Stored in safe location
+        ↓
+To spend, private key is imported into a hot wallet
+
+Where It Is Used:
+- Long-term holding (HODLing)
+- Offline storage
+- High-security environments
+
+Advantages:
+- Completely offline
+- Immune to online hacking
+- Free
+
+Disadvantages:
+- Can be damaged by fire or water
+- No recovery if lost
+- Not suitable for frequent transactions

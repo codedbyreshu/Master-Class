@@ -1,0 +1,104 @@
+# Comparison: Proof of Work (PoW) vs Proof of Stake (PoS)
+
+## Core Comparison Table
+
+| Aspect | Proof of Work (PoW) | Proof of Stake (PoS) |
+|----------|---------------------|----------------------|
+| Basic Idea | Miners compete by solving complex mathematical puzzles | Validators are selected based on the amount of crypto they stake |
+| Who Secures Network | Miners using computing power | Validators who lock (stake) coins |
+| Resource Used | Computational power + electricity | Staked cryptocurrency |
+| Hardware Required | ASICs / GPUs / CPUs | Normal servers or PCs |
+| Energy Consumption | Very high (energy-intensive) | Very low (energy-efficient) |
+| Cost to Participate | High (hardware + electricity) | Medium (requires minimum stake) |
+| Block Creation Method | First miner solving puzzle creates block | Validator chosen using random + stake-based selection |
+| Reward Mechanism | Block reward + transaction fees | Staking rewards + transaction fees |
+| Security Model | Based on hash power | Based on economic stake |
+| Attack Resistance | 51% attack requires massive computing power | 51% attack requires majority stake ownership |
+| Attack Cost | Extremely expensive physically | Extremely expensive financially |
+| Transaction Speed | Slower | Faster |
+| Scalability | Limited | Better scalability |
+| Finality | Probabilistic (multiple confirmations required) | Faster or near-instant finality |
+| Environmental Impact | High carbon footprint | Eco-friendly |
+| Decentralization | High but mining pools dominate | May favor wealthy stakeholders |
+| Network Maturity | Older and battle-tested | Newer and evolving |
+| Risk for Participants | Hardware may become obsolete | Risk of losing stake (slashing) |
+| Penalty for Misbehavior | Wasted electricity and time | Stake is slashed (coins lost) |
+| Governance Flexibility | Difficult protocol upgrades | Easier upgrades |
+| Best Use Case | Maximum security and censorship resistance | High efficiency and scalability |
+
+---
+
+## Blockchain Examples
+
+### Proof of Work (PoW)
+
+- Bitcoin (BTC)
+- Litecoin (LTC)
+- Bitcoin Cash (BCH)
+- Dogecoin (DOGE)
+
+---
+
+### Proof of Stake (PoS)
+
+- Ethereum (ETH) – After The Merge
+- Cardano (ADA)
+- Solana (SOL)
+- Polkadot (DOT)
+- Avalanche (AVAX)
+
+---
+
+## Advantages and Disadvantages
+
+### PoW Advantages
+
+- Highest level of security
+- Proven and stable system
+- Strong censorship resistance
+
+### PoW Disadvantages
+
+- Energy intensive
+- Slower transaction speed
+- Environmental concerns
+
+---
+
+### PoS Advantages
+
+- Energy efficient
+- Faster transactions
+- Lower operational cost
+
+### PoS Disadvantages
+
+- Risk of wealth concentration
+- Newer security model
+- Complex staking mechanisms
+
+---
+
+## One-Line Exam Answers
+
+### Proof of Work (PoW)
+
+Proof of Work secures a blockchain using computational power where miners solve cryptographic puzzles to validate transactions.
+
+### Proof of Stake (PoS)
+
+Proof of Stake secures a blockchain by selecting validators based on the amount of cryptocurrency they stake.
+
+---
+
+## Final Summary
+
+- PoW = Security-focused but energy-intensive
+- PoS = Efficiency-focused and environmentally friendly
+- Bitcoin continues using PoW for maximum security
+- Modern blockchain networks increasingly adopt PoS for scalability
+
+---
+
+# Proof of Work (PoW) – Flow Diagram
+

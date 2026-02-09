@@ -1,0 +1,224 @@
+STABLECOINS
+ What are Stablecoins?
+🔹 Simple definition
+Stablecoins are cryptocurrencies designed to maintain a stable value by being pegged to a real-world asset such as a fiat currency (USD, INR), commodity (gold), or a basket of assets.
+Unlike Bitcoin or Ethereum, stablecoins do not fluctuate heavily in price.
+🔹 Why stablecoins were created (The core problem)
+❌ Problem with cryptocurrencies
+	•	Bitcoin & others are highly volatile
+	•	Difficult to use for:  
+ 
+	•	Payments
+	•	Salaries
+	•	Savings
+	•	Accounting
+✅ Solution
+Create a blockchain-based digital currency with:
+	•	Price stability
+	•	Fast settlement
+	•	Global transfer
+	•	No central bank control (in most cases)
+This led to Stablecoins
+Who introduced Stablecoins & When?
+There is no single inventor, but development happened in stages.
+🔹 First widely recognized stablecoin
+✅ Tether (USDT)
+	•	Introduced: 2014
+	•	Original name: Realcoin
+	•	Founders: Brock Pierce, Reeve Collins, Craig Sellars
+	•	Peg: 1 USDT = 1 USD
+This marked the birth of modern stablecoins
+
+
+Types of Stablecoins (VERY IMPORTANT)
+1️. Fiat-Collateralized Stablecoins ⭐ (Most common)
+🔹 How they work
+	•	Backed by fiat money in a bank
+	•	Issuer holds reserves
+	•	Each coin is redeemable
+🔹 Examples 
+Stablecoin
+
+Peg
+
+Issuer
+
+USDT
+
+USD
+
+Tether
+
+USDC
+
+USD
+
+Circle
+
+BUSD (discontinued
+USD
+
+Binance
+
+EURC
+
+Euro
+
+Circle
+
+
+	•	Pros
+	•	Stable
+	•	Easy to understand
+	•	Widely used
+
+	•	Cons
+	•	Centralized
+	•	Requires trust in issuer
+2️. Crypto-Collateralized Stablecoins
+🔹 How they work
+	•	Backed by cryptocurrency
+	•	Over-collateralized to manage volatility
+	•	Managed by smart contracts
+🔹 Example
+Stablecoin
+Backed by
+
+DAI
+
+ETH, USDC, others
+
+
+
+🔹 Pros
+	•	Decentralized
+	•	Transparent
+🔹 Cons
+	•	Complex
+	•	Risk during market crashes
+3️. Algorithmic Stablecoins ⚠️ (High risk)
+🔹 How they work
+	•	No direct collateral
+	•	Use algorithms & supply control
+	•	Mint/burn tokens to maintain peg
+🔹 Example
+
+Stablecoin
+
+Status
+
+TerraUSD (UST)
+
+Collapsed in 2022
+
+🔹 Why risky
+	•	Peg breaks during panic
+	•	No real backing
+4️. Commodity-Backed Stablecoins
+🔹 Backed by
+	•	Gold
+	•	Oil
+	•	Other real assets
+🔹 Example
+Stablecoin
+
+Backing
+
+PAX Gold (PAXG)
+
+Physical gold
+
+
+How Stablecoins Work (Step-by-Step)
+Example: USDC
+	•	User deposits $100
+	•	Issuer mints 100 USDC
+	•	USDC sent to user wallet
+	•	User can:
+	•	Trade
+	•	Send
+	•	Save
+	•	When redeemed:
+	•	USDC burned
+	•	USD returned
+Uses of Stablecoins (MOST IMPORTANT)
+1️.Digital Payments
+	•	Faster than bank transfers
+	•	Works 24/7
+	•	Cross-border payments
+2️.Crypto Trading
+	•	Used as base trading pair
+	•	Avoids volatility
+	•	Easier profit calculation
+3️. DeFi (Decentralized Finance)
+Used in:
+	•	Lending
+	•	Borrowing
+	•	Yield farming
+	•	Liquidity pools
+4️.Remittances
+	•	Send money internationally
+	•	Low fees
+	•	Instant settlement
+5️. Protection Against Inflation
+	•	Used in countries with high inflation
+	•	Acts as digital USD
+6️. CBDC Alternative
+	•	Private digital money
+	•	Faster innovation than government systems
+Stablecoins vs CBDC vs Cryptocurrency
+
+Feature
+
+Stablecoin
+
+CBDC (e₹)
+
+Bitcoin
+
+Issuer
+
+Private
+
+Central Bank
+
+No one
+
+Price Stability
+
+Yes
+Yes
+No
+Decentralized
+Mostly
+
+No
+Yes
+Blockchain
+
+Yes
+Yes/ No
+Yes
+Legal Tender
+
+No
+Yes
+No
+
+Risks of Stablecoins
+	•	Centralization risk
+	•	Regulatory bans
+	•	Reserve transparency issues
+	•	De-pegging risk
+
+Regulation Status (High-Level)
+USA   : Regulated, reserve audits
+EU      : MiCA regulation
+India   : No INR stablecoin allowed yet
+Global: Under active regulation
+One-Line Exam Answers
+Stablecoin: A cryptocurrency designed to maintain price stability by pegging to real-world assets.
+First stablecoin: Tether (USDT), 2014.
+Main use: Payments, trading, DeFi, remittances.
+Final Summary
+Stablecoins combine the stability of fiat currency with the speed and programmability of blockchain, making them the backbone of modern crypto finance.

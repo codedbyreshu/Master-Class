@@ -1,0 +1,101 @@
+# II. Bitcoin Mining — Definition
+
+Bitcoin mining is the process by which:
+
+- New Bitcoin is created
+- Transactions are verified and added to the blockchain
+- Miners compete to solve complex cryptographic puzzles using Proof of Work (PoW) to add a new block to the Bitcoin blockchain
+
+---
+
+## 2. Functions of Bitcoin Mining
+
+### a. Transaction Verification
+
+- Miners validate transactions
+- Ensures accuracy and prevents double spending
+- Maintains network integrity
+
+---
+
+### b. Block Creation
+
+- Verified transactions are grouped into blocks
+- Blocks are added sequentially to the blockchain
+- Creates a continuous, immutable ledger
+
+---
+
+### c. Issuance of New Bitcoin
+
+- Miners receive newly minted BTC
+- Transaction fees are also included as rewards
+- Incentivizes honest participation
+
+---
+
+### d. Network Security
+
+- Proof of Work makes attacks extremely costly
+- Prevents alteration of past transactions
+- Protects the blockchain from fraud and double spending
+
+---
+
+## 3. Bitcoin Mining Process (Step-by-Step)
+
+1. Transaction Broadcast  
+   Users submit Bitcoin transactions to the network
+
+2. Transaction Pool (Mempool)  
+   Pending transactions wait to be mined
+
+3. Block Assembly  
+   Miners collect transactions into a candidate block
+
+4. Proof of Work Puzzle  
+   Miners test different nonces to find a hash below the difficulty target
+
+5. Block Found  
+   First miner with a valid hash broadcasts the block
+
+6. Verification and Addition  
+   Nodes verify the block and add it to the blockchain
+
+7. Reward Distribution  
+   Miner receives block reward plus transaction fees
+
+Proof of Work ensures decentralization and security by requiring real computational effort.
+
+---
+
+## 4. Countries Involved in Bitcoin Mining (2026)
+
+Global Bitcoin mining distribution by hashrate share in early 2026:
+
+| Country              | Approx. Global Hashrate |
+|----------------------|------------------------|
+| United States        | ~37.5 % (largest share) |
+| Russia               | ~16.4 % |
+| China                | ~11.7 % |
+| Canada               | ~7.1 % |
+| Kazakhstan            | ~3.4 % |
+| Paraguay              | ~3.4 % |
+
+These figures are based on industry surveys and global hashrate data.
+
+### Additional Mining Countries
+
+- Bhutan  
+  Uses hydropower for mining and holds significant BTC reserves
+
+- Turkmenistan  
+  Recently established regulations for mining and virtual assets
+
+---
+
+## Quick Summary (Exam-Ready)
+
+Bitcoin mining is the process of validating transactions and adding them to the blockchain while creating new Bitcoin. It secures the network through Proof of Work and decentralization. In 2026, the largest mining shares belong to the United States (~37.5 %), Russia (~16.4 %), China (~11.7 %), Canada (~7.1 %), and Kazakhstan and Paraguay (~3.4 % each).
+
+---

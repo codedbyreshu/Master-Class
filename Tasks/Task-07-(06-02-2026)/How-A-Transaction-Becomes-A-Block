@@ -1,0 +1,111 @@
+# How a Transaction Becomes a Block — Step-by-Step Process
+
+## 1. Transaction Creation
+A user initiates a transaction using a digital wallet.
+
+The transaction contains:
+- Sender address
+- Receiver address
+- Amount / value
+- Transaction fee
+- Digital signature (generated using the sender’s private key)
+
+The digital signature proves ownership and authorizes the transaction.
+
+---
+
+## 2. Transaction Broadcast
+The signed transaction is broadcast to the peer-to-peer (P2P) blockchain network.
+
+- Nearby nodes receive the transaction
+- The transaction enters a temporary waiting area called the mempool
+
+---
+
+## 3. Transaction Validation by Nodes
+Each node independently validates the transaction by checking:
+
+- Valid digital signature
+- Sufficient account balance
+- Proper transaction format
+- Absence of double spending
+
+Invalid transactions are rejected.  
+Valid transactions remain in the mempool.
+
+---
+
+## 4. Transaction Selection for a Block
+Block producers select transactions from the mempool:
+
+- Miners (Proof of Work)
+- Validators (Proof of Stake)
+
+Transactions with higher fees are usually prioritized.
+
+---
+
+## 5. Block Formation
+A new block is created containing:
+
+- Selected transactions
+- Previous block hash
+- Timestamp
+- Merkle root (hash summary of all transactions)
+- Nonce (PoW) or validator signature (PoS)
+
+This securely links the block to the existing blockchain.
+
+---
+
+## 6. Consensus Process
+
+### Proof of Work (PoW)
+- Miners compete to solve a cryptographic puzzle
+- The first miner to find a valid hash earns the right to add the block
+
+### Proof of Stake (PoS)
+- A validator is selected using stake and randomness
+- The validator proposes the block to the network
+
+---
+
+## 7. Block Verification by Network
+Other nodes verify:
+
+- Block structure
+- Validity of all transactions
+- Correct hash (PoW) or validator signature (PoS)
+
+If valid, the block is accepted.
+
+---
+
+## 8. Block Added to Blockchain
+The verified block is added to the blockchain:
+
+- Becomes a permanent, immutable record
+- Cryptographically linked to previous blocks
+
+---
+
+## 9. Confirmation and Finality
+- Each new block added increases the confirmation count
+- Higher confirmations result in higher security and finality
+
+---
+
+## 10. Reward Distribution
+The block producer receives:
+
+- Block reward (if applicable)
+- Transaction fees
+
+---
+
+## Key Takeaways
+- Transactions are verified before block inclusion
+- Blocks are created through consensus mechanisms
+- Once added, blocks cannot be altered
+- This process ensures security, transparency, and trust
+
