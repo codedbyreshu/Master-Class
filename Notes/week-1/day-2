@@ -161,16 +161,12 @@ Price History:
 Bitcoin is called the Mother Coin.Other cryptocurrencies are called Altcoins.
 
 21. Coin vs Token
-Coin                                Token
-Has its own blockchain             Depends on another blockchain
-Example: Bitcoin, Ethereum
-Built on existing blockchains
+Coin                                        Token
+Has its own blockchain                 Depends on another blockchain
+Example: Bitcoin, Ethereum            Built on existing blockchains
 Used mainly as digital currency       Used for utility purposes
 Long-lasting                          Short-term
-Independent                          Dependent
-
-
-
+Independent                           Dependent
 
 KEY TAKEAWAYS
 	•	Blockchain is a secure, transparent, and decentralized ledger system
